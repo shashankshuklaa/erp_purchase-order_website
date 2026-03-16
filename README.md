@@ -224,4 +224,4 @@ FastAPI auto-generates interactive documentation:
 ![Database](screenshots/database.png)
 
 ### AI Product Description
-![AI-auto description](screenshots/AI-auto description.png)
+![AI Description](screenshots/AI-description.png)
