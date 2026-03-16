@@ -207,3 +207,18 @@ FastAPI auto-generates interactive documentation:
 
 - **Swagger UI**: http://localhost:8000/docs
 - **ReDoc**: http://localhost:8000/redoc
+
+---
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Create Purchase Order
+![Create PO](screenshots/create-po.png)
+
+### API Documentation
+![API Docs](screenshots/api-docs.png)
+
+### Database Schema
+![Database](screenshots/database.png)
