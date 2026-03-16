@@ -215,7 +215,7 @@ FastAPI auto-generates interactive documentation:
 ![Dashboard](screenshots/dashboard.png)
 
 ### Create Purchase Order
-![Create PO](screenshots/create-po.png)
+![Create PO](screenshots/create_purchase-order.png)
 
 ### API Documentation
 ![API Docs](screenshots/api-docs.png)
